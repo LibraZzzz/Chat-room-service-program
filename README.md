@@ -90,6 +90,9 @@ Demo completed.
 
 > 若作業需「圖片型截圖」，可執行 `py demo_run.py` 後用系統截圖工具擷取終端機畫面。
 
+<img width="1078" height="1697" alt="image" src="https://github.com/user-attachments/assets/2a857445-dbaa-4873-af50-e39b8774b840" />
+
+
 ## 6) 流程圖（簡要）
 
 ```mermaid
